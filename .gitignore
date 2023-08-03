@@ -1,0 +1,12 @@
+.env
+*.pyc
+__pycache__
+env/
+*.log
+*.sqlite
+*.csv
+*.json
+.DS_Store
+*.swp
+*.swo
+*~
